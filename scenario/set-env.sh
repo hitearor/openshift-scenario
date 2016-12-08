@@ -1,3 +1,3 @@
 #!/bin/bash
 
-export KUBERNETES_MASTER=http://docker:8443
+export KUBERNETES_MASTER=http://openshift:8443
