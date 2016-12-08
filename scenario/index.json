@@ -2,6 +2,7 @@
     "title": "Learn Openshift Features",
     "description": "Learn how to work with Openshift",
     "difficulty": "beginner",
+    "icon": "fa-openshift",	
     "time": "10-15 minutes",
     "details": {
         "steps": [
