@@ -1,3 +1,3 @@
 #!/bin/bash
 
-export KUBERNETES_MASTER=http://openshift:8443
+~/.launch.sh
