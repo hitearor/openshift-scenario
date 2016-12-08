@@ -24,9 +24,6 @@
             "text": "finish.md"
         }
     },
-    "files": [
-        "app.js"
-    ],
     "environment": {
 	"uilayout": "terminal-iframe",
 	"showdashboard": true,
