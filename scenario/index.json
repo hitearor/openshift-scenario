@@ -28,7 +28,13 @@
     ],
     "environment": {
         "uilayout": "terminal",
-        "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart using `oc` client\u001b[m\r\n"
+	"showdashboard": true,        
+        "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart using `oc` client\u001b[m\r\n",
+	"dashboards": [{
+		"name": "Openshift",
+		"port": 8443,
+		"host": "HOST2"
+     	 }]    
     },
     "backend": {
         "port": 8443,
