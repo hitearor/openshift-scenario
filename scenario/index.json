@@ -8,7 +8,11 @@
             {
                 "title": "1 - Create an App based on Docker image",
                 "text": "1-create-app-from-docker-image.md"
-            }
+            },
+	    {
+                "title": "2 - Create an App using Docker build",
+                "text": "2-create-app-using-docker-build.md"
+            } 
         ],
         "intro": {
             "text": "intro.md",
