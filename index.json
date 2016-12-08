@@ -1,0 +1,33 @@
+{
+    "title": "Learn Openshift Features",
+    "description": "Learn how to work with Openshift",
+    "difficulty": "beginner",
+    "time": "10-15 minutes",
+    "details": {
+        "steps": [
+            {
+                "title": "1 - Create an App based on Docker image",
+                "text": "1-create-app-from-docker-image.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md",
+            "courseData": "courseBase.sh",
+            "credits": ""
+        },
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "files": [
+        "app.js"
+    ],
+    "environment": {
+        "uilayout": "terminal",
+        "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart  using `launch.sh`\u001b[m\r\n"
+    },
+    "backend": {
+        "port": 8443,
+        "imageid": "openshift"
+    }
+}
