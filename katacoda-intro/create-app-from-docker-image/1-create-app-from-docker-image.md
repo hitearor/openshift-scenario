@@ -1,5 +1,9 @@
 ## Create an App from a Docker image
 
+1) Visit the dashboard at https://[[HOST_SUBDOMAIN]]-8443-[[KATACODA_HOST]].environments.katacoda.com
+
+2) Login with the username **developer** and password **developer**. An account is created automatically for you.
+
 In this lab you will learn to create a new project and create an application from an existing docker image.
 
 **Step 1: Add a new project from command line**

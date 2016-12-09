@@ -1,7 +1,7 @@
 {
 	"icon": "fa-openshift",
 	"pathwayTitle": "OpenShift",
-	"title": "Create an App based on Docker image",
+	"title": "Create an App using Docker build",
         "difficulty": "beginner",
 	"description": "",
         "time": "3 hours",
@@ -16,7 +16,7 @@
 	},
 	"details": {
 		"steps": [{
-			"title": "1 - Create an App using Docker build",
+			"title": "2 - Create an App using Docker build",
 			"text": "2-create-app-using-docker-build.md"
 		}],
 		"intro": {

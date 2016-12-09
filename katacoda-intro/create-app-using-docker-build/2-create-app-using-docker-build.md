@@ -1,5 +1,9 @@
 ## Create an App using Docker build
 
+1) Visit the dashboard at https://[[HOST_SUBDOMAIN]]-8443-[[KATACODA_HOST]].environments.katacoda.com
+
+2) Login with the username **developer** and password **developer**. An account is created automatically for you.
+
 In this exercise we will learn how to create an application from a Dockerfile. OpenShift takes Dockerfile as an input and generates your application docker image for you.
 
 **Step 1: Create a project or use an existing project**
