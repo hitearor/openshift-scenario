@@ -8,6 +8,12 @@
       "course_id": "create-app-from-docker-image",
       "title": "Create an App from Docker image",
       "description": "Learn how to deploy a docker image into Openshift"
+    },
+   {
+       "external_link": "",
+       "course_id": "create-app-using-docker-build",
+       "title": "Create an App using Docker build",
+       "description": "Learn how to deploy an app using docker build into Openshift"
     }
   ]
 }

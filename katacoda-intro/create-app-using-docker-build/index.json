@@ -1,0 +1,31 @@
+{
+	"icon": "fa-openshift",
+	"pathwayTitle": "OpenShift",
+	"title": "Create an App based on Docker image",
+        "difficulty": "beginner",
+	"description": "",
+        "time": "3 hours",
+	"backend": {
+		"imageid": "openshift",
+		"port": 8443
+	},
+	"environment": {
+		"uilayout": "terminal-iframe",
+		"showdashboard": true,
+		"dashboard": "Dashboard"
+	},
+	"details": {
+		"steps": [{
+			"title": "1 - Create an App using Docker build",
+			"text": "2-create-app-using-docker-build.md"
+		}],
+		"intro": {
+			"courseData": "env-init.sh",
+			"code": "set-env.sh",
+			"text": "intro.md"
+		},
+		"finish": {
+			"text": "finish.md"
+		}
+	}
+}
