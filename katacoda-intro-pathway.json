@@ -1,0 +1,13 @@
+{
+  "title": "Learn OpenShift",
+  "description": "Learn OpenShift",
+  "paid": false,
+  "courses": [
+    {
+      "external_link": "",
+      "course_id": "create-app-from-docker-image",
+      "title": "Create an App from Docker image",
+      "description": "Learn how to deploy a docker image into Openshift"
+    }
+  ]
+}
